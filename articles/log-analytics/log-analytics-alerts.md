@@ -112,7 +112,7 @@ Angenommen, Sie wünschen sich eine Warnung, wenn ein beliebiger Computer binnen
 **Zeitfenster:** 30 Minuten<br>
 **Warnungshäufigkeit:** 5 Minuten<br>
 **Aggregatwert:** Größer als 90<br>
-**Warnung auslösen basierend auf:** Gesamtanzahl der Verstöße größer als 5<br>
+**Warnung auslösen basierend auf:** Gesamtanzahl der Verstöße größer als 3<br>
 
 Die Abfrage ermittelt einen Durchschnittswert für jeden Computer in 5-Minuten-Intervallen.  Diese Abfrage wird alle 5 Minuten für die in den letzten 30 Minuten gesammelten Daten ausgeführt.  Nachstehend sehen Sie Beispieldaten für drei Computer.
 
